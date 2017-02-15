@@ -15,6 +15,6 @@ if(session_status() !== PHP_SESSION_ACTIVE) {
 	</head>
 	<body>
 		<!-- This custom tag much match your Angular @Component selector name in app/app.component.ts -->
-		<angular2-example-app>Loading&hellip;</angular2-example-app>
+		<angular2-inclass-app>Loading&hellip;</angular2-inclass-app>
 	</body>
 </html>
