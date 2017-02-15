@@ -5,7 +5,7 @@ import {Component} from "@angular/core";
 	selector: 'angular2-inclass-app',
 
 	// templateUrl path to your public_html/templates directory.
-	templateUrl: './templates/angular2-inclass-app.php'
+	templateUrl: './templates/angular2-example.php'
 })
 
 export class AppComponent {}
